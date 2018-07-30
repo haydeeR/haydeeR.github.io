@@ -96,6 +96,10 @@ end
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
+### Medium image
+
+![Thumbnail of Cayman](https://github.com/pages-themes/cayman/blob/master/thumbnail.png)
+
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
