@@ -1,2 +1,2 @@
-# haydeeR.github.io
-Haydee Rodriguez 
+# Haydee Rodriguez 
+IOS Developer
